@@ -1,11 +1,11 @@
 {
-  "name": "dracula-ui",
+  "name": "gedatom/dracula-ui",
   "theme": "ui",
   "version": "0.6.0",
-  "description": "dracula UI theme for Atom",
+  "description": "gedatom/dracula UI theme for Gedatom",
   "license": "MIT",
-  "repository": "https://github.com/dracula/atom-ui",
+  "repository": "https://github.com/Acidburn0zzz/atom-ui/package.json",
   "engines": {
-    "atom": ">1.13.0"
+    "gedatom": ">=1.0.0"
   }
 }
