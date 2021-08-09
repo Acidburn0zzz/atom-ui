@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "description": "gedatom/dracula UI theme for Gedatom",
   "license": "MIT",
-  "repository": "https://github.com/Acidburn0zzz/atom-ui/package.json",
+  "repository": "https://github.com/Acidburn0zzz/gedatom-ui/package.json",
   "engines": {
     "gedatom": ">=1.0.0"
   }
